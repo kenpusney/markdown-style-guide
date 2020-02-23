@@ -314,3 +314,8 @@ _ 倾斜字体 _
 点击[这里](https://example.com)获取更多相关信息。
 ```
 
+## 参考
+
+- [Google Markdown Style](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md)
+
+- [Markdown Style Guide by Ciro Santilli](https://cirosantilli.com/markdown-style-guide)
