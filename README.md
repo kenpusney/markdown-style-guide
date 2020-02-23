@@ -317,5 +317,6 @@ _ 倾斜字体 _
 ## 参考
 
 - [Google Markdown Style](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md)
-
 - [Markdown Style Guide by Ciro Santilli](https://cirosantilli.com/markdown-style-guide)
+- [CommonMark](https://commonmark.org/)
+- [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
